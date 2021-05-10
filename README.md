@@ -1,1 +1,4 @@
-# intent_detection
+To run code:
+
+`conda activate recom`
+
