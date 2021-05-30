@@ -1,7 +1,7 @@
 Intent Detection
 ==================
 
-Given an English text, we detect if the query is a question or not using fastext model.
+Given an English text, detect if the text is a question or a statement using the fastext model.
 
 ## Activate conda environment:
 
